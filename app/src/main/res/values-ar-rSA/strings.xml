@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kidwatcher</string>
+    <string name="action_settings">ضبط</string>
+    <string name="menu_logout">خروج</string>
+    <string name="login_label">تسجيل الدخول</string>
+    <string name="email_label">البريدالالكتروني</string>
+    <string name="password_label">كلمةالمرور</string>
+    <string name="title_sign_in">مرحبا</string>
+    <string name="sign_up">التسجيل</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="hint_email">البريدالالكتروني</string>
+    <string name="hint_password">كلمةالمرور</string>
+    <string name="choose">اختر اللغة :</string>
+    <string name="btn_en">الانجليزية</string>
+    <string name="btn_ar">العربية</string>
+    <string name="enter">دخول</string>
+    <string name="welcome">مرحبا</string>
+    <string name="menu_login">تسجيل الدخول</string>
+    <string name="send_text">ارسال</string>
+    <string name="action_location">الموقع</string>
+    <string name="action_appsControl">التحكم بالتطبيقات</string>
+    <string name="heading_my_posts">التطبيقات</string>
+    <string name="heading_my_top_posts">التطبيقات المحظوره</string>
+    <string name="title_activity_maps">الخريطة</string>
+    <string name="btn_next">التالي</string>
+    <string name="btn_SignUpHere">"التسجيل هنا "</string>
+    <string name="name_label">الاسم كامل</string>
+    <string name="Phone_label">الجوال</string>
+    <string name="Or">او</string>
+</resources>

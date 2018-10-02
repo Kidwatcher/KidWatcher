@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "859092480031",
+    "firebase_url": "https://kidwatcherapp-9bf68.firebaseio.com",
+    "project_id": "kidwatcherapp-9bf68",
+    "storage_bucket": "kidwatcherapp-9bf68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859092480031:android:5cc4645efcaac351",
+        "android_client_info": {
+          "package_name": "com.kidwatcher.kidwatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859092480031-2iphjp4163cmuo2m3n2b3viig6s1dkor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kidwatcher.kidwatcher",
+            "certificate_hash": "df881af850ae67317850f26f8e9f56786ac618cf"
+          }
+        },
+        {
+          "client_id": "859092480031-h6q2uhn1suhp40ne5c8kqgitq0s2p7j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQyGqpv8uxh1634ZBAZWHTMbOPnErITQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859092480031-h6q2uhn1suhp40ne5c8kqgitq0s2p7j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
